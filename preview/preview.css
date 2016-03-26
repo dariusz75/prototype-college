@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+html {
+	background-color: #d0d0d0;
+	background-image: url("background.png");
+}
+body {
+	width: auto;
+	margin: 0 auto;
+}
+.modern-menu {
+	margin-top: 0px !important;
+}
